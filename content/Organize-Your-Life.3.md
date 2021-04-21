@@ -4,11 +4,8 @@ date: 2021-02-17T21:00:00+00:00
 description: This is meta description
 type: featured
 image: "/images/danielle-rice-kb6dzxernmy-unsplash.jpg"
-categories:
-- Article
-tags:
-- Photos
-- Article
+categories: []
+tags: []
 
 ---
 **Tiny House Genel Özellikleri**
