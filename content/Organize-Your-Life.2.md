@@ -1,55 +1,39 @@
 ---
-title: "Organize Your Life With 10 Simple rule"
-date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "featured"
-image: "images/featured-post/post-3.jpg"
-categories: 
-  - "Fashion"
-tags:
-  - "Fashion"
+title: Tiny House da Dikkat Edilmesi Gerekenler
+date: 2021-02-09T21:00:00+00:00
+description: Tiny House yaparken ya da satın alınırken dikkat edilmesi gereken en
+  önemli noktalar evin yeri ve altyapısı seçeneklerinin belirlenmesidir. Konumlandırılacak
+  yerin konumuna ve aynı zamanda kişilerin isteğine göre iki seçenek ile karşılaşılmaktadır.
+  İlk seçenek olarak genel elektrik ve su şebekelerinden yararlanılabilecek bir alt
+  yapı tasarlanabilirken ikinci seçenek olarak ise küçük evin ihtiyaçlarını karşılayabilmek
+  için yenilenebilir enerji kaynakları kullanılarak bir alt yapı tasarımı yapılmasıdır.
+  Küçük evleri tasarlarken tavsiye edilen ise kendi kendine yetebilme özelliklerinin
+  kazandırılmasıdır. Bu kendi kendine yetebilme özellikleri için güneş panel sistemi,
+  lityum pilleri, su depoları, atık su, yağmur suyu depolama tuvalet atıklarından
+  gübre üretimini sağlayan makinler gibi çeşitli özellikler ve teknolojik makineler
+  eklenebilir.
+type: featured
+image: "/images/alek-kalinowski-dwkdiiljph0-unsplash.jpg"
+categories: []
+tags: []
+
 ---
+**Tiny House'da Dikkat Edilmesi Gerekenler**
 
+Tiny House yaparken ya da satın alınırken dikkat edilmesi gereken en önemli noktalar evin yeri ve altyapısı seçeneklerinin belirlenmesidir. Konumlandırılacak yerin konumuna ve aynı zamanda kişilerin isteğine göre iki seçenek ile karşılaşılmaktadır. İlk seçenek olarak genel elektrik ve su şebekelerinden yararlanılabilecek bir alt yapı tasarlanabilirken ikinci seçenek olarak ise küçük evin ihtiyaçlarını karşılayabilmek için yenilenebilir enerji kaynakları kullanılarak bir alt yapı tasarımı yapılmasıdır. Küçük evleri tasarlarken tavsiye edilen ise kendi kendine yetebilme özelliklerinin kazandırılmasıdır. Bu kendi kendine yetebilme özellikleri için güneş panel sistemi, lityum pilleri, su depoları, atık su, yağmur suyu depolama tuvalet atıklarından gübre üretimini sağlayan makinler gibi çeşitli özellikler ve teknolojik makineler eklenebilir.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+Doğa severlerin fazlaca bulunduğu ülkemizde Tiny House akımının gün geçtikçe hızlıca artacağı öngörülmektedir. Mobil Tiny House’ların artması konforlu ama doğanın içinde bir yaşam sağlaması ile küçük eve ilgisi olan kişilerin dikkatini çekmeye devam etmekledir. Mobil Tiny House’ların içerisinde yaşamı aksatmayan mutfak, banyo ve yatak odası gibi bölümler yer almaktayken buzdolabı, çamaşır ve bulaşık makineleri yemek pişirilmesi için ocak gibi çeşitli ev aletleri bulunmaktadır.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Tiny House Özellikleri**
 
+Küçük evlerin en büyük özelliği bir temele sahip olmamasıdır. Bu nedenle inşası ve yapımında zaman kazanılmaktadır. 10 ile 30 metrekare arasında boyuta sahip olmaları ile inşasını hızlı bir şekilde tamamlanmaktadır. Tekerlekli römorklar üzerinde inşa edilebildikleri için istenilen yere kolay bir şekilde taşınabilmeleri sağlanmaktadır. Şehir şebekelerine bağlanabileceği gibi kendi kendine yetebilme özelikleri kazandırarak dışardan kullanılacak enerji ihtiyaçlarının azaltılması ile daha az enerji harcanır. Yenilenemeyen enerji kaynaklarına olan ihtiyacın azalması yenilenebilir enerji ihtiyaçlarının kullanılması ile dünyaya bırakılan karbon ayak izi miktarını azaltır. Doğa dostu olmaları ile sürdürülebilir bir gelecek için uygundurlar.
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
+**Tiny House Felsefesinin Gereklilikleri**
 
+Zamanla büyük ailelerin sayısının azalması küçük ailelerin sayısının artması ancak küçük ailelerin sayısının artmasına rağmen ters orantılı bir şekilde evlerin büyüklüğü artmaktadır. Evlerin büyüklüğüyle beraber ihtiyaçtan fazla eşyaya sahip olma ya da insanların günümüz standartlarını yakalamak için maddi sıkıntılara girerek küçük evlere ihtiyaçtan fazla eşya sığdırılmaya başlandı. Tiny House felsefesinin temelinde az eşya ile çok iş anlayışı yatmaktadır. Bu felsefe ile basit bir yaşam arzulayan kişiler kendi istedikleri tasarım ve konforda istedikleri Tiny House satın alıp ya da kendileri bu evleri tasarlayabilmektedir.
 
-![](../images/post-img.jpg)
+Küçük metrekarelere büyük bir hayat sığdırmaya çalışılan Tiny House yaşam biçimi ile az eşyayla çok iş felsefesini birleştirmesiyle doğa ile birebir bir yaşam ve bir kaplumbağa misali istenildiği gibi evini hareket ettirme özgürlüğü sağlamaktadır.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+**Kimler için Uygundur**
 
-
+Tiny House’lar şehrin koşuşturması içinde yaşamak istemeyen, çağın gerektirdiklerine ayak uyduramayan basit bir yaşam tercihi ve isteği barındıran kişiler için uygundur. Bu kişilerin daha çok yeni evli çiftler, emekliye ayrılan çiftler ya da evde çalışabilen kişiler olduğu ve bu kişilerin küçük evleri daha çok tercih ettiği görülmektedir. Çocuklu ailelerin bu küçük evleri tercih ederken daha çok şeye dikkat etmeleri gereklidir. Çocukların doğanın içerisinde büyümeleri onlara avantajlar sağlayacağı düşünülürken çocukların okul eğitimlerini aksatmamaları için çocuklu ailelerin çok tercih etmedikleri düşünülmektedir. Ancak çocuklu ailelerin tatillerini geçirmek, tatil masraflarını azaltmak ve istedikleri yerde vakit geçirme özgürlüğü sağladığı için Tiny House akımına ayak uydukları düşünülmektedir. Daha basit ve özgür bir yaşam arzusu bu akıma olan ilgiyi zamanla artırdı.
