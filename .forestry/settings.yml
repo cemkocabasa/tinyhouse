@@ -13,7 +13,7 @@ sections:
   - post
 - type: directory
   path: content/about
-  label: About
+  label: Hakkımızda
   create: none
   match: "*"
 - type: directory
