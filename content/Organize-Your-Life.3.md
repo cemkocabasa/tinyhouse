@@ -1,6 +1,6 @@
 ---
-title: Organize Your Life With 10 Simple rule
-date: 2019-05-14T14:46:10.000+06:00
+title: Tiny House Genel Özellikleri
+date: 2021-02-17T21:00:00+00:00
 description: This is meta description
 type: featured
 image: "/images/danielle-rice-kb6dzxernmy-unsplash.jpg"
